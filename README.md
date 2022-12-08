@@ -6,7 +6,7 @@
 csv에 직급에 따라 연봉이 책정 되어있음을 볼 수 있다.
 
 
-
+![cap](https://user-images.githubusercontent.com/118944645/206458197-e19a7486-5825-45d2-89d0-2b0cc38532a0.png)
 
 
 그런데 레벨이 소수점이면 어떻게 책정해야 할까?
