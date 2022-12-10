@@ -25,6 +25,9 @@ csv에 직급에 따라 연봉이 책정 되어있음을 볼 수 있다.
 ### 1.2 시간당 전기 에너지 출력 예측
 
 
+출처: https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant#
+
+
 위에서 배운 내용은 적은 데이터로 예측하는 것이기 때문에 회귀값이 매우 다르게 나온다.
 
 
